@@ -1,0 +1,14 @@
+{
+  "servers": [
+    {
+      "name": "RED",
+      "display_name": "Rigyt",
+      "ip": "188.127.241.74",
+      "port": "3909",
+      "recommended": true,
+      "online": true,
+      "online_players": 500,
+      "max_players": 1000
+    }
+  ]
+}
